@@ -38,17 +38,6 @@ A Spring Boot-based RESTful API for managing an e-commerce platform with feature
 
 ---
 
-## 📁 Folder Structure
-
-ecom-sara/
-├── src/
-├── target/
-├── pics/ # Place screenshots here
-├── pom.xml
-└── README.md
-
----
-
 ## 📦 Installation
 
 1. Clone the repository:
